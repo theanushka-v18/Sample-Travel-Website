@@ -1,8 +1,6 @@
 # Sample-Travel-Website
 I have made this website by taking help from a tutorial to clear my HTML and CSS concepts.
 
-I have made this website by taking help from a tutorial to clear my HTML and CSS concepts.
-
 In this sample website there are 2 folders and 4 files are listed below:
 
 1. index.html--> In this file I have made home page of the website in which header, sections and footer are being covered.
